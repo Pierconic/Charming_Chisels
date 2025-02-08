@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_sandstone_frame",
+    "up": "charming_chisels:block/chiseled_sandstone_legend_top_gold",
+    "north": "charming_chisels:block/chiseled_sandstone_legend_front_gold",
+    "east": "charming_chisels:block/chiseled_sandstone_legend_left_gold",
+    "south": "charming_chisels:block/chiseled_sandstone_legend_back_gold",
+    "west": "charming_chisels:block/chiseled_sandstone_legend_right_gold",
+    "particle": "charming_chisels:block/chiseled_sandstone_frame"
+  },
+  "render_type": "solid"
+}

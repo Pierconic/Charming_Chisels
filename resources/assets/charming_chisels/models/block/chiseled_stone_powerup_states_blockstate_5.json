@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_stone_powerup_top_diamond",
+    "up": "charming_chisels:block/chiseled_stone_powerup_top_diamond",
+    "north": "charming_chisels:block/chiseled_stone_powerup_side_diamond",
+    "east": "charming_chisels:block/chiseled_stone_powerup_side_diamond",
+    "south": "charming_chisels:block/chiseled_stone_powerup_side_diamond",
+    "west": "charming_chisels:block/chiseled_stone_powerup_side_diamond",
+    "particle": "charming_chisels:block/chiseled_stone_powerup_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_stone_bricks_caveat_emerald",
+    "up": "charming_chisels:block/chiseled_stone_bricks_caveat_emerald",
+    "north": "charming_chisels:block/chiseled_stone_bricks_hieroglyph_emerald",
+    "east": "charming_chisels:block/chiseled_stone_bricks_hieroglyph_emerald",
+    "south": "charming_chisels:block/chiseled_stone_bricks_hieroglyph_emerald",
+    "west": "charming_chisels:block/chiseled_stone_bricks_hieroglyph_emerald",
+    "particle": "charming_chisels:block/chiseled_stone_bricks"
+  },
+  "render_type": "solid"
+}

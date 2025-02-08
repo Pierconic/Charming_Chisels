@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "charming_chisels:chisel_powerup",
+    "charming_chisels:chisel_thing",
+    "charming_chisels:chisel_legend",
+    "charming_chisels:quartz_inset",
+    "charming_chisels:netherite_inset",
+    "charming_chisels:chisel_swirl",
+    "charming_chisels:chisel_etching",
+    "charming_chisels:chisel_doom",
+    "charming_chisels:chisel_groan",
+    "charming_chisels:chisel_snout",
+    "charming_chisels:chisel_hieroglyph",
+    "charming_chisels:chisel_skull",
+    "charming_chisels:chisel_nexus",
+    "charming_chisels:redstone_inset",
+    "charming_chisels:glowstone_inset",
+    "charming_chisels:amethyst_inset",
+    "charming_chisels:lapis_inset",
+    "charming_chisels:emerald_inset",
+    "charming_chisels:gold_inset",
+    "charming_chisels:iron_inset",
+    "charming_chisels:copper_inset",
+    "charming_chisels:diamond_inset",
+    "charming_chisels:chisel_plain",
+    "charming_chisels:chisel_caveat"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_red_sandstone_caveat_amethyst",
+    "up": "charming_chisels:block/chiseled_red_sandstone_caveat_amethyst",
+    "north": "charming_chisels:block/chiseled_red_sandstone_doom_amethyst",
+    "east": "charming_chisels:block/chiseled_red_sandstone_doom_amethyst",
+    "south": "charming_chisels:block/chiseled_red_sandstone_doom_amethyst",
+    "west": "charming_chisels:block/chiseled_red_sandstone_doom_amethyst",
+    "particle": "charming_chisels:block/chiseled_red_sandstone_caveat"
+  },
+  "render_type": "solid"
+}

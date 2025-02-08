@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:polished_deepslate",
+    "minecraft:deepslate_tiles",
+    "minecraft:deepslate_bricks",
+    "charming_chisels:chiseled_deepslate_caveat",
+    "charming_chisels:chiseled_deepslate_nexus",
+    "charming_chisels:chiseled_deepslate_skull",
+    "charming_chisels:chiseled_deepslate_hieroglyph",
+    "charming_chisels:chiseled_deepslate_snout",
+    "charming_chisels:chiseled_deepslate_groan",
+    "charming_chisels:chiseled_deepslate_doom",
+    "charming_chisels:chiseled_deepslate_etch",
+    "charming_chisels:chiseled_deepslate_swirl",
+    "charming_chisels:chiseled_deepslate_legend",
+    "charming_chisels:chiseled_deepslate_thing",
+    "charming_chisels:chiseled_deepslate_powerup"
+  ]
+}

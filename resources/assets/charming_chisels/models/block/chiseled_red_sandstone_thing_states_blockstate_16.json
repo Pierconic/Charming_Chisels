@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_red_sandstone_thing_quartz",
+    "up": "charming_chisels:block/chiseled_red_sandstone_thing_quartz",
+    "north": "charming_chisels:block/chiseled_red_sandstone_thing_quartz",
+    "east": "charming_chisels:block/chiseled_red_sandstone_thing_quartz",
+    "south": "charming_chisels:block/chiseled_red_sandstone_thing_quartz",
+    "west": "charming_chisels:block/chiseled_red_sandstone_thing_quartz",
+    "particle": "charming_chisels:block/chiseled_red_sandstone_thing"
+  },
+  "render_type": "solid"
+}

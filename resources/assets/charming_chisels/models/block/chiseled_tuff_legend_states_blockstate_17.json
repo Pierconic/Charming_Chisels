@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_tuff_frame",
+    "up": "charming_chisels:block/polished_tuff",
+    "north": "charming_chisels:block/chiseled_tuff_legend_front_netherite",
+    "east": "charming_chisels:block/chiseled_tuff_legend_left_netherite",
+    "south": "charming_chisels:block/chiseled_tuff_legend_back_netherite",
+    "west": "charming_chisels:block/chiseled_tuff_legend_right_netherite",
+    "particle": "charming_chisels:block/chiseled_tuff_frame"
+  },
+  "render_type": "solid"
+}

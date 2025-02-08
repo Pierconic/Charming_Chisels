@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chisels",
+  "category": "equipment",
+  "pattern": [
+    " ab",
+    " ca",
+    "d  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_block"
+    },
+    "b": {
+      "item": "minecraft:sculk_catalyst"
+    },
+    "c": {
+      "item": "charming_chisels:chisel_plain"
+    },
+    "d": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "charming_chisels:chisel_groan",
+    "count": 1
+  }
+}

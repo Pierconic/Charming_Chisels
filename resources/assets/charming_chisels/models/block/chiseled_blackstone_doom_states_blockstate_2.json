@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_blackstone_caveat_coppere",
+    "up": "charming_chisels:block/chiseled_blackstone_caveat_coppere",
+    "north": "charming_chisels:block/chiseled_blackstone_doom_coppere",
+    "east": "charming_chisels:block/chiseled_blackstone_doom_coppere",
+    "south": "charming_chisels:block/chiseled_blackstone_doom_coppere",
+    "west": "charming_chisels:block/chiseled_blackstone_doom_coppere",
+    "particle": "charming_chisels:block/chiseled_blackstone_caveat"
+  },
+  "render_type": "solid"
+}

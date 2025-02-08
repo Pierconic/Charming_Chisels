@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_tuff_caveat_glowstone",
+    "up": "charming_chisels:block/chiseled_tuff_caveat_glowstone",
+    "north": "charming_chisels:block/chiseled_tuff_doom_glowstone",
+    "east": "charming_chisels:block/chiseled_tuff_doom_glowstone",
+    "south": "charming_chisels:block/chiseled_tuff_doom_glowstone",
+    "west": "charming_chisels:block/chiseled_tuff_doom_glowstone",
+    "particle": "charming_chisels:block/chiseled_tuff_caveat"
+  },
+  "render_type": "solid"
+}

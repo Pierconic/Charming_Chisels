@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_deepslate_frame",
+    "up": "charming_chisels:block/chiseled_deepslate_legend_back",
+    "north": "charming_chisels:block/chiseled_deepslate_legend_front_gold",
+    "east": "charming_chisels:block/chiseled_deepslate_legend_left_gold",
+    "south": "charming_chisels:block/chiseled_deepslate_legend_back",
+    "west": "charming_chisels:block/chiseled_deepslate_legend_right_gold",
+    "particle": "charming_chisels:block/chiseled_deepslate_frame"
+  },
+  "render_type": "solid"
+}

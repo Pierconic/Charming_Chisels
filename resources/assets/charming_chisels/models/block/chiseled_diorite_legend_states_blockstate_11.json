@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_diorite_frame",
+    "up": "charming_chisels:block/chiseled_diorite_legend_back",
+    "north": "charming_chisels:block/chiseled_diorite_legend_front_redstonea",
+    "east": "charming_chisels:block/chiseled_diorite_legend_left_redstonea",
+    "south": "charming_chisels:block/chiseled_diorite_legend_top",
+    "west": "charming_chisels:block/chiseled_diorite_legend_right_redstonea",
+    "particle": "charming_chisels:block/chiseled_diorite_frame"
+  },
+  "render_type": "solid"
+}

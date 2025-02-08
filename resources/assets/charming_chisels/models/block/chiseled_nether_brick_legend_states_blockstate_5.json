@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_nether_bricks_frame",
+    "up": "charming_chisels:block/chiseled_nether_bricks_legend_top",
+    "north": "charming_chisels:block/chiseled_nether_bricks_legend_front_diamond",
+    "east": "charming_chisels:block/chiseled_nether_bricks_legend_left_diamond",
+    "south": "charming_chisels:block/chiseled_nether_bricks_legend_top",
+    "west": "charming_chisels:block/chiseled_nether_bricks_legend_right_diamond",
+    "particle": "charming_chisels:block/chiseled_nether_bricks_frame"
+  },
+  "render_type": "solid"
+}

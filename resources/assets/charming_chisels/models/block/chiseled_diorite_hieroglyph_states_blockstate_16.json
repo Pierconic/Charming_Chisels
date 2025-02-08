@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_diorite_caveat_quartz",
+    "up": "charming_chisels:block/chiseled_diorite_caveat_quartz",
+    "north": "charming_chisels:block/chiseled_diorite_hieroglyph_quartz",
+    "east": "charming_chisels:block/chiseled_diorite_hieroglyph_quartz",
+    "south": "charming_chisels:block/chiseled_diorite_hieroglyph_quartz",
+    "west": "charming_chisels:block/chiseled_diorite_hieroglyph_quartz",
+    "particle": "charming_chisels:block/chiseled_diorite_caveat"
+  },
+  "render_type": "solid"
+}

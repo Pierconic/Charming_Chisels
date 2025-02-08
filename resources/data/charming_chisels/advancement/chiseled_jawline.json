@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "charming_chisels:chisel_caveat"
+    },
+    "title": {
+      "translate": "advancements.chiseled_jawline.title"
+    },
+    "description": {
+      "translate": "advancements.chiseled_jawline.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "chiseled_jawline_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:story/root"
+}

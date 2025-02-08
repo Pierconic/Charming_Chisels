@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "charming_chisels:chiseled_tuff_caveat",
+    "charming_chisels:chiseled_tuff_nexus",
+    "charming_chisels:chiseled_tuff_skull",
+    "charming_chisels:chiseled_tuff_hieroglyph",
+    "charming_chisels:chiseled_tuff_snout",
+    "charming_chisels:chiseled_tuff_groan",
+    "charming_chisels:chiseled_tuff_doom",
+    "charming_chisels:chiseled_tuff_etch",
+    "charming_chisels:chiseled_tuff_swirl",
+    "charming_chisels:chiseled_tuff_legend",
+    "charming_chisels:chiseled_tuff_thing",
+    "charming_chisels:chiseled_tuff_powerup",
+    "minecraft:polished_tuff",
+    "minecraft:chiseled_tuff",
+    "minecraft:tuff_bricks",
+    "minecraft:chiseled_tuff_bricks"
+  ]
+}

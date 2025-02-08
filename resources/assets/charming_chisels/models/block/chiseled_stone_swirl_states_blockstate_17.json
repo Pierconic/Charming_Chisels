@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_stone_bricks_frame_netherite",
+    "up": "charming_chisels:block/chiseled_stone_bricks_frame_netherite",
+    "north": "charming_chisels:block/chiseled_stone_bricks_swirl_netherite",
+    "east": "charming_chisels:block/chiseled_stone_bricks_swirl_netherite",
+    "south": "charming_chisels:block/chiseled_stone_bricks_swirl_netherite",
+    "west": "charming_chisels:block/chiseled_stone_bricks_swirl_netherite",
+    "particle": "charming_chisels:block/chiseled_stone_bricks_frame"
+  },
+  "render_type": "solid"
+}

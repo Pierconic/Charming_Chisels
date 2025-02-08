@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_quartz_frame",
+    "up": "charming_chisels:block/chiseled_quartz_legend_back",
+    "north": "charming_chisels:block/chiseled_quartz_legend_front_glowstone",
+    "east": "charming_chisels:block/chiseled_quartz_legend_left_glowstone",
+    "south": "charming_chisels:block/chiseled_quartz_legend_back",
+    "west": "charming_chisels:block/chiseled_quartz_legend_right_glowstone",
+    "particle": "charming_chisels:block/chiseled_quartz_frame"
+  },
+  "render_type": "solid"
+}

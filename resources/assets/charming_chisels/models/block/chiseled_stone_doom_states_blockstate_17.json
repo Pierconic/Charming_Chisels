@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_stone_bricks_caveat_netherite_broken",
+    "up": "charming_chisels:block/chiseled_stone_bricks_caveat_netherite_broken",
+    "north": "charming_chisels:block/chiseled_stone_bricks_doom_netherite",
+    "east": "charming_chisels:block/chiseled_stone_bricks_doom_netherite",
+    "south": "charming_chisels:block/chiseled_stone_bricks_doom_netherite",
+    "west": "charming_chisels:block/chiseled_stone_bricks_doom_netherite",
+    "particle": "charming_chisels:block/chiseled_stone_bricks"
+  },
+  "render_type": "solid"
+}

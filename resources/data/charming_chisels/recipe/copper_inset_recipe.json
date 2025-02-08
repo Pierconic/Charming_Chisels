@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "insets",
+  "category": "equipment",
+  "pattern": [
+    " a ",
+    "aba",
+    "ca "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "item": "charming_chisels:chisel_plain"
+    },
+    "c": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "id": "charming_chisels:copper_inset",
+    "count": 1
+  }
+}

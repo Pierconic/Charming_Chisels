@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_blackstone_caveat",
+    "up": "charming_chisels:block/chiseled_blackstone_caveat",
+    "north": "charming_chisels:block/chiseled_blackstone_hieroglyph",
+    "east": "charming_chisels:block/chiseled_blackstone_hieroglyph",
+    "south": "charming_chisels:block/chiseled_blackstone_hieroglyph",
+    "west": "charming_chisels:block/chiseled_blackstone_hieroglyph",
+    "particle": "charming_chisels:block/chiseled_blackstone_caveat"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_sandstone_frame",
+    "up": "charming_chisels:block/chiseled_sandstone_legend_top_coppero",
+    "north": "charming_chisels:block/chiseled_sandstone_legend_front_coppero",
+    "east": "charming_chisels:block/chiseled_sandstone_legend_left_coppero",
+    "south": "charming_chisels:block/chiseled_sandstone_legend_back_coppero",
+    "west": "charming_chisels:block/chiseled_sandstone_legend_right_coppero",
+    "particle": "charming_chisels:block/chiseled_sandstone_frame"
+  },
+  "render_type": "solid"
+}

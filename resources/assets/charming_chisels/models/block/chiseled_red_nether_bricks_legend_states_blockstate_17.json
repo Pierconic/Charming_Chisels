@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_red_nether_bricks_caveat_netherite",
+    "up": "charming_chisels:block/chiseled_red_nether_bricks_legend_top",
+    "north": "charming_chisels:block/chiseled_red_nether_bricks_legend_front_netherite",
+    "east": "charming_chisels:block/chiseled_red_nether_bricks_legend_side",
+    "south": "charming_chisels:block/chiseled_red_nether_bricks_hieroglyph_netherite",
+    "west": "charming_chisels:block/chiseled_red_nether_bricks_legend_side",
+    "particle": "charming_chisels:block/chiseled_red_nether_bricks_frame"
+  },
+  "render_type": "solid"
+}

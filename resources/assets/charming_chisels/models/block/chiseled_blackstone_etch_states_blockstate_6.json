@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_blackstone_frame_emerald",
+    "up": "charming_chisels:block/chiseled_blackstone_frame_emerald",
+    "north": "charming_chisels:block/chiseled_blackstone_etch_emerald",
+    "east": "charming_chisels:block/chiseled_blackstone_etch_emerald",
+    "south": "charming_chisels:block/chiseled_blackstone_etch_emerald",
+    "west": "charming_chisels:block/chiseled_blackstone_etch_emerald",
+    "particle": "charming_chisels:block/chiseled_blackstone_frame"
+  },
+  "render_type": "solid"
+}

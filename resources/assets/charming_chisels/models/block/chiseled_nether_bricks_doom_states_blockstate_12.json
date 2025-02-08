@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_nether_bricks_caveat_redstonei",
+    "up": "charming_chisels:block/chiseled_nether_bricks_caveat_redstonei",
+    "north": "charming_chisels:block/chiseled_nether_bricks_doom_redstonei",
+    "east": "charming_chisels:block/chiseled_nether_bricks_doom_redstonei",
+    "south": "charming_chisels:block/chiseled_nether_bricks_doom_redstonei",
+    "west": "charming_chisels:block/chiseled_nether_bricks_doom_redstonei",
+    "particle": "charming_chisels:block/chiseled_nether_bricks_caveat"
+  },
+  "render_type": "solid"
+}

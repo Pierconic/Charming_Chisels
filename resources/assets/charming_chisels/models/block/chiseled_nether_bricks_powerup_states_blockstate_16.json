@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_nether_bricks_powerup_top_quartz",
+    "up": "charming_chisels:block/chiseled_nether_bricks_powerup_top_quartz",
+    "north": "charming_chisels:block/chiseled_nether_bricks_powerup_side_quartz",
+    "east": "charming_chisels:block/chiseled_nether_bricks_powerup_side_quartz",
+    "south": "charming_chisels:block/chiseled_nether_bricks_powerup_side_quartz",
+    "west": "charming_chisels:block/chiseled_nether_bricks_powerup_side_quartz",
+    "particle": "charming_chisels:block/chiseled_nether_bricks_powerup_top"
+  },
+  "render_type": "solid"
+}

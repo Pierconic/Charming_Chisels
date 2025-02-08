@@ -1,0 +1,678 @@
+{
+  "bounty.open": {
+    "subtitle": "subtitles.bounty.open",
+    "sounds": [
+      {
+        "name": "charming_chisels:bounty.open",
+        "stream": false
+      }
+    ]
+  },
+  "bounty.close": {
+    "subtitle": "subtitles.bounty.close",
+    "sounds": [
+      {
+        "name": "charming_chisels:bounty.close",
+        "stream": false
+      }
+    ]
+  },
+  "bounty.completed": {
+    "subtitle": "subtitles.bounty.completed",
+    "sounds": [
+      {
+        "name": "charming_chisels:bounty.completed",
+        "stream": false
+      }
+    ]
+  },
+  "bounty.annihalated": {
+    "subtitle": "subtitles.bounty.annihalated",
+    "sounds": [
+      {
+        "name": "charming_chisels:bounty.anihalated",
+        "stream": false
+      }
+    ]
+  },
+  "bounty.failed": {
+    "subtitle": "subtitles.bounty.failed",
+    "sounds": [
+      {
+        "name": "charming_chisels:bounty.timeup",
+        "stream": false
+      }
+    ]
+  },
+  "medallion.dispense": {
+    "subtitle": "subtitles.medallion.dispense",
+    "sounds": [
+      {
+        "name": "charming_chisels:medallion.dispense.1",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:medallion.dispense.7",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:medallion.dispense.6",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:medallion.dispense.5",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:medallion.dispense.4",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:medallion.dispense.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:medallion.dispense.2",
+        "stream": false
+      }
+    ]
+  },
+  "book.dispense": {
+    "subtitle": "subtitles.book.dispense",
+    "sounds": [
+      {
+        "name": "charming_chisels:book.print",
+        "stream": false
+      }
+    ]
+  },
+  "chisel.carve": {
+    "subtitle": "subtitles.chisel.carve",
+    "sounds": [
+      {
+        "name": "charming_chisels:chisel.carve.5",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:chisel.carve.4",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:chisel.carve.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:chisel.carve.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:chisel.carve.1",
+        "stream": false
+      }
+    ]
+  },
+  "chisel.inset": {
+    "subtitle": "subtitles.chisel.inset",
+    "sounds": [
+      {
+        "name": "charming_chisels:chisel.inset.4",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:chisel.inset.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:chisel.inset.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:chisel.inset.1",
+        "stream": false
+      }
+    ]
+  },
+  "shade.step": {
+    "subtitle": "subtitles.shade.step",
+    "sounds": [
+      {
+        "name": "charming_chisels:shade.step.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:shade.step.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:shade.step.1",
+        "stream": false
+      }
+    ]
+  },
+  "heart.magic": {
+    "subtitle": "subtitles.heart.magic",
+    "sounds": [
+      {
+        "name": "charming_chisels:heart.magic.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:heart.magic.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:heart.magic.1",
+        "stream": false
+      }
+    ]
+  },
+  "heart.sorcery": {
+    "subtitle": "subtitles.heart.sorcery",
+    "sounds": [
+      {
+        "name": "charming_chisels:heart.magic.heavy",
+        "stream": false
+      }
+    ]
+  },
+  "spade.magic": {
+    "subtitle": "subtitles.spade.magic",
+    "sounds": [
+      {
+        "name": "charming_chisels:spade.magic.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:spade.magic.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:spade.magic.1",
+        "stream": false
+      }
+    ]
+  },
+  "spade.sorcery": {
+    "subtitle": "subtitles.spade.sorcery",
+    "sounds": [
+      {
+        "name": "charming_chisels:spade.magic.heavy",
+        "stream": false
+      }
+    ]
+  },
+  "club.magic": {
+    "subtitle": "subtitles.club.magic",
+    "sounds": [
+      {
+        "name": "charming_chisels:club.magic.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:club.magic.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:club.magic.1",
+        "stream": false
+      }
+    ]
+  },
+  "club.sorcery": {
+    "subtitle": "subtitles.club.sorcery",
+    "sounds": [
+      {
+        "name": "charming_chisels:club.magic.heavy",
+        "stream": false
+      }
+    ]
+  },
+  "diamond.magic": {
+    "subtitle": "subtitles.diamond.magic",
+    "sounds": [
+      {
+        "name": "charming_chisels:diamond.magic.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:diamond.magic.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:diamond.magic.1",
+        "stream": false
+      }
+    ]
+  },
+  "diamond.sorcery": {
+    "subtitle": "subtitles.diamond.sorcery",
+    "sounds": [
+      {
+        "name": "charming_chisels:diamond.magic.heavy",
+        "stream": false
+      }
+    ]
+  },
+  "magic.fizzle": {
+    "subtitle": "subtitles.magic.fizzle",
+    "sounds": [
+      {
+        "name": "charming_chisels:magic.fizzle.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:magic.fizzle.1",
+        "stream": false
+      }
+    ]
+  },
+  "bounty.stamp": {
+    "subtitle": "subtitles.bounty.stamp",
+    "sounds": [
+      {
+        "name": "charming_chisels:bounty.stamp",
+        "stream": false
+      }
+    ]
+  },
+  "bounty.nope": {
+    "subtitle": "subtitles.bounty.nope",
+    "sounds": [
+      {
+        "name": "charming_chisels:bounty.fail",
+        "stream": false
+      }
+    ]
+  },
+  "bounty.deposit": {
+    "subtitle": "subtitles.bounty.deposit",
+    "sounds": [
+      {
+        "name": "charming_chisels:bounty.deposit",
+        "stream": false
+      }
+    ]
+  },
+  "medallion.shatter": {
+    "subtitle": "subtitles.medallion.shatter",
+    "sounds": [
+      {
+        "name": "charming_chisels:medallion.shatter.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:medallion.shatter",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:medallion.shatter.4",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:medallion.shatter.3",
+        "stream": false
+      }
+    ]
+  },
+  "scroll.unfurl": {
+    "subtitle": "subtitles.scroll.unfurl",
+    "sounds": [
+      {
+        "name": "charming_chisels:scroll.5",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:scroll.4",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:scroll.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:scroll.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:scroll.1",
+        "stream": false
+      }
+    ]
+  },
+  "hunter.ambient": {
+    "subtitle": "subtitles.hunter.ambient",
+    "sounds": [
+      {
+        "name": "charming_chisels:hunter.ambient.4",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:hunter.ambient.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:hunter.ambient.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:hunter.ambient.1",
+        "stream": false
+      }
+    ]
+  },
+  "hunter.hurt": {
+    "subtitle": "subtitles.hunter.hurt",
+    "sounds": [
+      {
+        "name": "charming_chisels:hunter.hurt.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:hunter.hurt.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:hunter.hurt.1",
+        "stream": false
+      }
+    ]
+  },
+  "hunter.interact": {
+    "subtitle": "subtitles.hunter.interact",
+    "sounds": [
+      {
+        "name": "charming_chisels:hunter.interact.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:hunter.interact.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:hunter.interact",
+        "stream": false
+      }
+    ]
+  },
+  "hunter.accept": {
+    "subtitle": "subtitles.hunter.accept",
+    "sounds": [
+      {
+        "name": "charming_chisels:hunter.accept.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:hunter.accept.1",
+        "stream": false
+      }
+    ]
+  },
+  "hunter.yes": {
+    "subtitle": "subtitles.hunter.yes",
+    "sounds": [
+      {
+        "name": "charming_chisels:hunter.trade.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:hunter.trade.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:hunter.trade.1",
+        "stream": false
+      }
+    ]
+  },
+  "jester.interact": {
+    "subtitle": "subtitles.jester.interact",
+    "sounds": [
+      {
+        "name": "charming_chisels:jester.interact.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:jester.interact.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:jester.interact",
+        "stream": false
+      }
+    ]
+  },
+  "solar.magic": {
+    "subtitle": "subtitles.solar.magic",
+    "sounds": [
+      {
+        "name": "charming_chisels:solar.magic",
+        "stream": false
+      }
+    ]
+  },
+  "jester.ambient": {
+    "subtitle": "subtitles.jester.ambient",
+    "sounds": [
+      {
+        "name": "charming_chisels:jester.ambient.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:jester.ambient.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:jester.ambient.1",
+        "stream": false
+      }
+    ]
+  },
+  "jester.yes": {
+    "subtitle": "subtitles.jester.yes",
+    "sounds": [
+      {
+        "name": "charming_chisels:jester.yes.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:jester.yes.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:jester.yes.1",
+        "stream": false
+      }
+    ]
+  },
+  "jester.accept": {
+    "subtitle": "subtitles.jester.accept",
+    "sounds": [
+      {
+        "name": "charming_chisels:jester.accept.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:jester.accept.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:jester.accept.1",
+        "stream": false
+      }
+    ]
+  },
+  "botanist.ambient": {
+    "subtitle": "subtitles.botanist.ambient",
+    "sounds": [
+      {
+        "name": "charming_chisels:botanist.ambient.4",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:botanist.ambient.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:botanist.ambient.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:botanist.ambient.1",
+        "stream": false
+      }
+    ]
+  },
+  "botanist.interact": {
+    "subtitle": "subtitles.botanist.interact",
+    "sounds": [
+      {
+        "name": "charming_chisels:botanist.interact.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:botanist.interact.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:botanist.interact.1",
+        "stream": false
+      }
+    ]
+  },
+  "botanist.yes": {
+    "subtitle": "subtitles.botanist.yes",
+    "sounds": [
+      {
+        "name": "charming_chisels:botanist.yes.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:botanist.yes.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:botanist.yes.1",
+        "stream": false
+      }
+    ]
+  },
+  "botanist.accept": {
+    "subtitle": "subtitles.botanist.accept",
+    "sounds": [
+      {
+        "name": "charming_chisels:botanist.accept.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:botanist.accept.1",
+        "stream": false
+      }
+    ]
+  },
+  "whistle.trigger": {
+    "subtitle": "subtitles.whistle.trigger",
+    "sounds": [
+      {
+        "name": "charming_chisels:whistle.5",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:whistle.4",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:whistle.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:whistle.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:whistle.1",
+        "stream": false
+      }
+    ]
+  },
+  "archivist.interact": {
+    "subtitle": "subtitles.archivist.interact",
+    "sounds": [
+      {
+        "name": "charming_chisels:archivist.interact.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:archivist.interact.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:archivist.interact.1",
+        "stream": false
+      }
+    ]
+  },
+  "archivist.ambient": {
+    "subtitle": "subtitles.archivist.ambient",
+    "sounds": [
+      {
+        "name": "charming_chisels:archivist.ambient.4",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:archivist.ambient.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:archivist.ambient.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:archivist.ambient.1",
+        "stream": false
+      }
+    ]
+  },
+  "archivist.yes": {
+    "subtitle": "subtitles.archivist.yes",
+    "sounds": [
+      {
+        "name": "charming_chisels:archivist.yes.3",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:archivist.yes.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:archivist.yes.1",
+        "stream": false
+      }
+    ]
+  },
+  "archivist.accept": {
+    "subtitle": "subtitles.archivist.accept",
+    "sounds": [
+      {
+        "name": "charming_chisels:archivist.accept.2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:archivist.accept.1",
+        "stream": false
+      }
+    ]
+  },
+  "saturn.boing": {
+    "subtitle": "subtitles.saturn.boing",
+    "sounds": [
+      {
+        "name": "charming_chisels:saturn.boing2",
+        "stream": false
+      },
+      {
+        "name": "charming_chisels:saturn.boing",
+        "stream": false
+      }
+    ]
+  }
+}

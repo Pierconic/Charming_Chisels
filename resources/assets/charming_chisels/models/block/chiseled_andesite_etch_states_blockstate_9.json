@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_andesite_frame_iron",
+    "up": "charming_chisels:block/chiseled_andesite_frame_iron",
+    "north": "charming_chisels:block/chiseled_andesite_etch_iron",
+    "east": "charming_chisels:block/chiseled_andesite_etch_iron",
+    "south": "charming_chisels:block/chiseled_andesite_etch_iron",
+    "west": "charming_chisels:block/chiseled_andesite_etch_iron",
+    "particle": "charming_chisels:block/chiseled_andesite_frame"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "charming_chisels:chiseled_blackstone_caveat",
+    "charming_chisels:chiseled_blackstone_nexus",
+    "charming_chisels:chiseled_blackstone_skull",
+    "charming_chisels:chiseled_blackstone_hieroglyph",
+    "charming_chisels:chiseled_blackstone_snout",
+    "charming_chisels:chiseled_blackstone_groan",
+    "charming_chisels:chiseled_blackstone_doom",
+    "charming_chisels:chiseled_blackstone_etch",
+    "charming_chisels:chiseled_blackstone_swirl",
+    "charming_chisels:chiseled_blackstone_legend",
+    "minecraft:polished_blackstone",
+    "minecraft:polished_blackstone_bricks",
+    "minecraft:chiseled_polished_blackstone",
+    "charming_chisels:chiseled_blackstone_thing",
+    "charming_chisels:chiseled_blackstone_powerup"
+  ]
+}

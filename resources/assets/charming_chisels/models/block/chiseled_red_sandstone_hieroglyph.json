@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_red_sandstone_caveat",
+    "up": "charming_chisels:block/chiseled_red_sandstone_caveat",
+    "north": "charming_chisels:block/chiseled_red_sandstone_hieroglyph",
+    "east": "charming_chisels:block/chiseled_red_sandstone_hieroglyph",
+    "south": "charming_chisels:block/chiseled_red_sandstone_hieroglyph",
+    "west": "charming_chisels:block/chiseled_red_sandstone_hieroglyph",
+    "particle": "charming_chisels:block/chiseled_red_sandstone_caveat"
+  },
+  "render_type": "solid"
+}

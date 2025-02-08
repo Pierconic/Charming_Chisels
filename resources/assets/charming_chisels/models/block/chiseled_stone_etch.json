@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_stone_bricks_frame",
+    "up": "charming_chisels:block/chiseled_stone_bricks_frame",
+    "north": "charming_chisels:block/chiseled_stone_bricks_etch",
+    "east": "charming_chisels:block/chiseled_stone_bricks_etch",
+    "south": "charming_chisels:block/chiseled_stone_bricks_etch",
+    "west": "charming_chisels:block/chiseled_stone_bricks_etch",
+    "particle": "charming_chisels:block/chiseled_stone_bricks_frame"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_diorite_powerup_top_iron",
+    "up": "charming_chisels:block/chiseled_diorite_powerup_top_iron",
+    "north": "charming_chisels:block/chiseled_diorite_powerup_side_iron",
+    "east": "charming_chisels:block/chiseled_diorite_powerup_side_iron",
+    "south": "charming_chisels:block/chiseled_diorite_powerup_side_iron",
+    "west": "charming_chisels:block/chiseled_diorite_powerup_side_iron",
+    "particle": "charming_chisels:block/chiseled_diorite_powerup_top"
+  },
+  "render_type": "solid"
+}

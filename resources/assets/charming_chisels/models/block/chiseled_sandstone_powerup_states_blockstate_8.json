@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_sandstone_powerup_top_gold",
+    "up": "charming_chisels:block/chiseled_sandstone_powerup_top_gold",
+    "north": "charming_chisels:block/chiseled_sandstone_powerup_side_gold",
+    "east": "charming_chisels:block/chiseled_sandstone_powerup_side_gold",
+    "south": "charming_chisels:block/chiseled_sandstone_powerup_side_gold",
+    "west": "charming_chisels:block/chiseled_sandstone_powerup_side_gold",
+    "particle": "charming_chisels:block/chiseled_sandstone_powerup_top"
+  },
+  "render_type": "solid"
+}

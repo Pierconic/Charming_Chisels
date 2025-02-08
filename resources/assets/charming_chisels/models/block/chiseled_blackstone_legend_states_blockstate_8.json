@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_blackstone_frame",
+    "up": "charming_chisels:block/chiseled_blackstone_legend_top",
+    "north": "charming_chisels:block/chiseled_blackstone_legend_front_gold",
+    "east": "charming_chisels:block/chiseled_blackstone_legend_left_gold",
+    "south": "charming_chisels:block/chiseled_blackstone_legend_back_gold",
+    "west": "charming_chisels:block/chiseled_blackstone_legend_right_gold",
+    "particle": "charming_chisels:block/chiseled_blackstone_frame"
+  },
+  "render_type": "solid"
+}

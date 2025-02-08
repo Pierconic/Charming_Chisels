@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_tuff_powerup_top_amethyst",
+    "up": "charming_chisels:block/chiseled_tuff_powerup_top_amethyst",
+    "north": "charming_chisels:block/chiseled_tuff_powerup_side_amethyst",
+    "east": "charming_chisels:block/chiseled_tuff_powerup_side_amethyst",
+    "south": "charming_chisels:block/chiseled_tuff_powerup_side_amethyst",
+    "west": "charming_chisels:block/chiseled_tuff_powerup_side_amethyst",
+    "particle": "charming_chisels:block/chiseled_tuff_powerup_top"
+  },
+  "render_type": "solid"
+}

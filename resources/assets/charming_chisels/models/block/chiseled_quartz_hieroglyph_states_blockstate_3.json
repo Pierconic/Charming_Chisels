@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_quartz_caveat_copperw",
+    "up": "charming_chisels:block/chiseled_quartz_caveat_copperw",
+    "north": "charming_chisels:block/chiseled_quartz_hieroglyph_copperw",
+    "east": "charming_chisels:block/chiseled_quartz_hieroglyph_copperw",
+    "south": "charming_chisels:block/chiseled_quartz_hieroglyph_copperw",
+    "west": "charming_chisels:block/chiseled_quartz_hieroglyph_copperw",
+    "particle": "charming_chisels:block/chiseled_quartz_caveat"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_sandstone_caveat_emerald",
+    "up": "charming_chisels:block/chiseled_sandstone_caveat_emerald",
+    "north": "charming_chisels:block/chiseled_sandstone_doom_emerald",
+    "east": "charming_chisels:block/chiseled_sandstone_doom_emerald",
+    "south": "charming_chisels:block/chiseled_sandstone_doom_emerald",
+    "west": "charming_chisels:block/chiseled_sandstone_doom_emerald",
+    "particle": "charming_chisels:block/chiseled_sandstone_caveat"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "charming_chisels:block/chiseled_diorite_skull_redstonea",
+    "particle": "charming_chisels:block/chiseled_diorite_skull"
+  },
+  "render_type": "solid"
+}

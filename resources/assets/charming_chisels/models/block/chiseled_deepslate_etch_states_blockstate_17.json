@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_deepslate_frame_netherite",
+    "up": "charming_chisels:block/chiseled_deepslate_frame_netherite",
+    "north": "charming_chisels:block/chiseled_deepslate_etching_netherite",
+    "east": "charming_chisels:block/chiseled_deepslate_etching_netherite",
+    "south": "charming_chisels:block/chiseled_deepslate_etching_netherite",
+    "west": "charming_chisels:block/chiseled_deepslate_etching_netherite",
+    "particle": "charming_chisels:block/chiseled_deepslate_frame"
+  },
+  "render_type": "solid"
+}

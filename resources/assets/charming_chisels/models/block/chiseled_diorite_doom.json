@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_diorite_caveat",
+    "up": "charming_chisels:block/chiseled_diorite_caveat",
+    "north": "charming_chisels:block/chiseled_diorite_doom",
+    "east": "charming_chisels:block/chiseled_diorite_doom",
+    "south": "charming_chisels:block/chiseled_diorite_doom",
+    "west": "charming_chisels:block/chiseled_diorite_doom",
+    "particle": "charming_chisels:block/chiseled_diorite_caveat"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "charming_chisels:block/chiseled_red_sandstone_groan_iron",
+    "particle": "charming_chisels:block/chiseled_red_sandstone_groan"
+  },
+  "render_type": "solid"
+}

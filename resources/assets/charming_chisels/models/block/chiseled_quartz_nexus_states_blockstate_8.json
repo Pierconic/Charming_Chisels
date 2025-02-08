@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "charming_chisels:block/chiseled_quartz_nexus_gold",
+    "particle": "charming_chisels:block/chiseled_quartz_nexus"
+  },
+  "render_type": "solid"
+}

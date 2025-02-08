@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_tuff_frame_redstonea",
+    "up": "charming_chisels:block/chiseled_tuff_frame_redstonea",
+    "north": "charming_chisels:block/chiseled_tuff_etch_redstonea",
+    "east": "charming_chisels:block/chiseled_tuff_etch_redstonea",
+    "south": "charming_chisels:block/chiseled_tuff_etch_redstonea",
+    "west": "charming_chisels:block/chiseled_tuff_etch_redstonea",
+    "particle": "charming_chisels:block/chiseled_tuff_frame"
+  },
+  "render_type": "solid"
+}

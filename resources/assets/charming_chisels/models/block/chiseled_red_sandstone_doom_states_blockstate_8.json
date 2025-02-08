@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_red_sandstone_caveat_gold",
+    "up": "charming_chisels:block/chiseled_red_sandstone_caveat_gold",
+    "north": "charming_chisels:block/chiseled_red_sandstone_doom_gold",
+    "east": "charming_chisels:block/chiseled_red_sandstone_doom_gold",
+    "south": "charming_chisels:block/chiseled_red_sandstone_doom_gold",
+    "west": "charming_chisels:block/chiseled_red_sandstone_doom_gold",
+    "particle": "charming_chisels:block/chiseled_red_sandstone_caveat"
+  },
+  "render_type": "solid"
+}

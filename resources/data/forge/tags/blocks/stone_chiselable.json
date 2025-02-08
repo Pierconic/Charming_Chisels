@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:stone_bricks",
+    "minecraft:mossy_stone_bricks",
+    "minecraft:infested_stone_bricks",
+    "minecraft:infested_mossy_stone_bricks",
+    "charming_chisels:chiseled_stone_caveat",
+    "minecraft:chiseled_stone_bricks",
+    "minecraft:infested_chiseled_stone_bricks",
+    "charming_chisels:chiseled_stone_nexus",
+    "charming_chisels:chiseled_stone_skull",
+    "charming_chisels:chiseled_stone_hieroglyph",
+    "charming_chisels:chiseled_stone_snout",
+    "charming_chisels:chiseled_stone_groan",
+    "charming_chisels:chiseled_stone_doom",
+    "charming_chisels:chiseled_stone_etch",
+    "charming_chisels:chiseled_stone_swirl",
+    "charming_chisels:chiseled_stone_legend",
+    "charming_chisels:chiseled_stone_thing",
+    "charming_chisels:chiseled_stone_powerup"
+  ]
+}

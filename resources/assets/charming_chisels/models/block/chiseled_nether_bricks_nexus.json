@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "charming_chisels:block/chiseled_nether_bricks_nexus",
+    "particle": "charming_chisels:block/chiseled_nether_bricks_nexus"
+  },
+  "render_type": "solid"
+}

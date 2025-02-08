@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_sandstone_powerup_top_netherite",
+    "up": "charming_chisels:block/chiseled_sandstone_powerup_top_netherite",
+    "north": "charming_chisels:block/chiseled_sandstone_powerup_side_netherite",
+    "east": "charming_chisels:block/chiseled_sandstone_powerup_side_netherite",
+    "south": "charming_chisels:block/chiseled_sandstone_powerup_side_netherite",
+    "west": "charming_chisels:block/chiseled_sandstone_powerup_side_netherite",
+    "particle": "charming_chisels:block/chiseled_sandstone_powerup_top"
+  },
+  "render_type": "solid"
+}

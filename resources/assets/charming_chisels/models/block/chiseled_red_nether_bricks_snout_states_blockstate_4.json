@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "charming_chisels:block/chiseled_red_nether_bricks_snout_coppero",
+    "particle": "charming_chisels:block/chiseled_red_nether_bricks_snout"
+  },
+  "render_type": "solid"
+}

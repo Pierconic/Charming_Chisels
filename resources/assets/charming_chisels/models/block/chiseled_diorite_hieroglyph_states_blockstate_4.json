@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_diorite_caveat_coppero",
+    "up": "charming_chisels:block/chiseled_diorite_caveat_coppero",
+    "north": "charming_chisels:block/chiseled_diorite_hieroglyph_coppero",
+    "east": "charming_chisels:block/chiseled_diorite_hieroglyph_coppero",
+    "south": "charming_chisels:block/chiseled_diorite_hieroglyph_coppero",
+    "west": "charming_chisels:block/chiseled_diorite_hieroglyph_coppero",
+    "particle": "charming_chisels:block/chiseled_diorite_caveat"
+  },
+  "render_type": "solid"
+}

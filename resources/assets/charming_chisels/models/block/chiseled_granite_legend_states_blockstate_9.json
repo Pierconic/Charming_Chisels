@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_granite_frame",
+    "up": "charming_chisels:block/chiseled_granite_legend_top",
+    "north": "charming_chisels:block/chiseled_granite_legend_front_iron",
+    "east": "charming_chisels:block/chiseled_granite_legend_left",
+    "south": "charming_chisels:block/chiseled_granite_legend_top",
+    "west": "charming_chisels:block/chiseled_granite_legend_right",
+    "particle": "charming_chisels:block/chiseled_granite_frame"
+  },
+  "render_type": "solid"
+}

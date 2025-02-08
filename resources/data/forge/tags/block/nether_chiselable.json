@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:nether_bricks",
+    "charming_chisels:chiseled_nether_bricks_caveat",
+    "charming_chisels:chiseled_nether_bricks_nexus",
+    "charming_chisels:chiseled_nether_bricks_skull",
+    "charming_chisels:chiseled_nether_bricks_hieroglyph",
+    "charming_chisels:chiseled_nether_bricks_snout",
+    "charming_chisels:chiseled_nether_bricks_groan",
+    "charming_chisels:chiseled_nether_bricks_doom",
+    "charming_chisels:chiseled_nether_bricks_etch",
+    "charming_chisels:chiseled_nether_bricks_swirl",
+    "charming_chisels:chiseled_nether_bricks_legend",
+    "charming_chisels:chiseled_nether_bricks_thing",
+    "charming_chisels:chiseled_nether_bricks_powerup"
+  ]
+}

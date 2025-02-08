@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_nether_bricks_powerup_top_coppere",
+    "up": "charming_chisels:block/chiseled_nether_bricks_powerup_top_coppere",
+    "north": "charming_chisels:block/chiseled_nether_bricks_powerup_side_coppere",
+    "east": "charming_chisels:block/chiseled_nether_bricks_powerup_side_coppere",
+    "south": "charming_chisels:block/chiseled_nether_bricks_powerup_side_coppere",
+    "west": "charming_chisels:block/chiseled_nether_bricks_powerup_side_coppere",
+    "particle": "charming_chisels:block/chiseled_nether_bricks_powerup_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_granite_frame_glowstone",
+    "up": "charming_chisels:block/chiseled_granite_frame_glowstone",
+    "north": "charming_chisels:block/chiseled_granite_swirl_glowstone",
+    "east": "charming_chisels:block/chiseled_granite_swirl_glowstone",
+    "south": "charming_chisels:block/chiseled_granite_swirl_glowstone",
+    "west": "charming_chisels:block/chiseled_granite_swirl_glowstone",
+    "particle": "charming_chisels:block/chiseled_granite_frame"
+  },
+  "render_type": "solid"
+}

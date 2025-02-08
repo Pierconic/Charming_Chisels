@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_tuff_caveat_lapis",
+    "up": "charming_chisels:block/chiseled_tuff_caveat_lapis",
+    "north": "charming_chisels:block/chiseled_tuff_doom_lapis",
+    "east": "charming_chisels:block/chiseled_tuff_doom_lapis",
+    "south": "charming_chisels:block/chiseled_tuff_doom_lapis",
+    "west": "charming_chisels:block/chiseled_tuff_doom_lapis",
+    "particle": "charming_chisels:block/chiseled_tuff_caveat"
+  },
+  "render_type": "solid"
+}

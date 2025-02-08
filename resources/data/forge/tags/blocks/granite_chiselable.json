@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:polished_granite",
+    "charming_chisels:chiseled_granite_caveat",
+    "charming_chisels:chiseled_granite_nexus",
+    "charming_chisels:chiseled_granite_skull",
+    "charming_chisels:chiseled_granite_hieroglyph",
+    "charming_chisels:chiseled_granite_snout",
+    "charming_chisels:chiseled_granite_groan",
+    "charming_chisels:chiseled_granite_doom",
+    "charming_chisels:chiseled_granite_etch",
+    "charming_chisels:chiseled_granite_swirl",
+    "charming_chisels:chiseled_granite_legend",
+    "charming_chisels:chiseled_granite_thing",
+    "charming_chisels:chiseled_granite_powerup"
+  ]
+}

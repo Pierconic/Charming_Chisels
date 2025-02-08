@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "charming_chisels:block/chiseled_stone_bricks_caveat_iron",
+    "particle": "charming_chisels:block/chiseled_stone_bricks_caveat_iron"
+  },
+  "render_type": "solid"
+}

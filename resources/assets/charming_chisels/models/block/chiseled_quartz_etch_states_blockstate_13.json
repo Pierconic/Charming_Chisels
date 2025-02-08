@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_quartz_frame_copper",
+    "up": "charming_chisels:block/chiseled_quartz_frame_copper",
+    "north": "charming_chisels:block/chiseled_quartz_etch_copper",
+    "east": "charming_chisels:block/chiseled_quartz_etch_copper",
+    "south": "charming_chisels:block/chiseled_quartz_etch_copper",
+    "west": "charming_chisels:block/chiseled_quartz_etch_copper",
+    "particle": "charming_chisels:block/chiseled_quartz_frame"
+  },
+  "render_type": "solid"
+}

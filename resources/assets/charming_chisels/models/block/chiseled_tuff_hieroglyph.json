@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_tuff_caveat",
+    "up": "charming_chisels:block/chiseled_tuff_caveat",
+    "north": "charming_chisels:block/chiseled_tuff_hieroglyph",
+    "east": "charming_chisels:block/chiseled_tuff_hieroglyph",
+    "south": "charming_chisels:block/chiseled_tuff_hieroglyph",
+    "west": "charming_chisels:block/chiseled_tuff_hieroglyph",
+    "particle": "charming_chisels:block/chiseled_tuff_caveat"
+  },
+  "render_type": "solid"
+}

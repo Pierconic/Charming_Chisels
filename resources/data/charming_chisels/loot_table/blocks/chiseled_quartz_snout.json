@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "charming_chisels:blocks/chiseled_quartz_snout",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_quartz_block"
+        }
+      ]
+    }
+  ]
+}

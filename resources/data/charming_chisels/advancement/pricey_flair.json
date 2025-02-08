@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:netherite_ingot"
+    },
+    "title": {
+      "translate": "advancements.pricey_flair.title"
+    },
+    "description": {
+      "translate": "advancements.pricey_flair.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "pricey_flair_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "charming_chisels:chiseled_jawline"
+}

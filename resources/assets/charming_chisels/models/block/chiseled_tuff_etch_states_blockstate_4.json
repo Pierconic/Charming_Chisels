@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_tuff_frame_coppero",
+    "up": "charming_chisels:block/chiseled_tuff_frame_coppero",
+    "north": "charming_chisels:block/chiseled_tuff_etch_coppero",
+    "east": "charming_chisels:block/chiseled_tuff_etch_coppero",
+    "south": "charming_chisels:block/chiseled_tuff_etch_coppero",
+    "west": "charming_chisels:block/chiseled_tuff_etch_coppero",
+    "particle": "charming_chisels:block/chiseled_tuff_frame"
+  },
+  "render_type": "solid"
+}

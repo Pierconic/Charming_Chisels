@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_red_sandstone_frame_amethyst",
+    "up": "charming_chisels:block/chiseled_red_sandstone_frame_amethyst",
+    "north": "charming_chisels:block/chiseled_red_sandstone_etch_amethyst",
+    "east": "charming_chisels:block/chiseled_red_sandstone_etch_amethyst",
+    "south": "charming_chisels:block/chiseled_red_sandstone_etch_amethyst",
+    "west": "charming_chisels:block/chiseled_red_sandstone_etch_amethyst",
+    "particle": "charming_chisels:block/chiseled_red_sandstone_frame"
+  },
+  "render_type": "solid"
+}

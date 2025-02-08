@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "charming_chisels:block/chiseled_andesite_powerup_top_diamond",
+    "up": "charming_chisels:block/chiseled_andesite_powerup_top_diamond",
+    "north": "charming_chisels:block/chiseled_andesite_powerup_front_diamond",
+    "east": "charming_chisels:block/chiseled_andesite_powerup_left_diamond",
+    "south": "charming_chisels:block/chiseled_andesite_powerup_back_diamond",
+    "west": "charming_chisels:block/chiseled_andesite_powerup_right_diamond",
+    "particle": "charming_chisels:block/chiseled_andesite_powerup_top"
+  },
+  "render_type": "solid"
+}
